@@ -1,6 +1,8 @@
 import React from 'react'
 
-type Props = {}
+type PersonalData = {
+  
+}
 
 export default function PersonalInfoRegis({}: Props) {
   return (
